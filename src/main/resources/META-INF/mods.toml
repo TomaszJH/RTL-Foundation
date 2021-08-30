@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="All Rights Reserved"
+issueTrackerURL="https://github.com/TomaszJH/RTL-Lib/issues"
+[[mods]]
+modId= "rtl_foundation"
+version="${file.jarVersion}"
+displayName="RTL Foundation"
+# A URL to query for updates for this mod. See the JSON update specification https://mcforge.readthedocs.io/en/latest/gettingstarted/autoupdate/
+#updateJSONURL="https://change.me.example.invalid/updates.json" #optional
+# A URL for the "homepage" for this mod, displayed in the mod UI
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
+# A file name (in the root of the mod JAR) containing a logo for display
+logoFile="logo.png"
+#credits="Thanks for this example mod goes to Java" #optional
+authors="TomaszJH"
+description='''
+RTL Foundation: Used to power mods written by TomaszJH
+Also used for intergrating non-RTL mods with RTL mods
+'''
+#Support All Within My Hands Foundation at: https://www.allwithinmyhands.org/ (NOT AFFILIATED)
